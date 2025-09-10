@@ -4,6 +4,11 @@
 
 I am an artist who forges connections between **music, technology, and visual art** to create immersive, multisensory experiences. My work is a continuous exploration of intuition and innovation, blending electroacoustic composition and free improvisation with dynamic multimedia systems. I thrive at the crossroads of different disciplines, crafting a unique space where **structured chaos** becomes art.
 
+<div align="center" style="margin-top: 20px;">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=F7DF1E&center=true&vCenter=true&width=435&lines=Passionate+About+Code;Always+Learning;Keep+Calm+and+Code+On" alt="Typing SVG" />
+</div>
+<div align="center">
+
 -----
 
 ## 🎶 Artistic Practice
