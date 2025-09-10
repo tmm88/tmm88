@@ -4,6 +4,8 @@
 
 I am an artist who forges connections between **music, technology, and visual art** to create immersive, multisensory experiences. My work is a continuous exploration of intuition and innovation, blending electroacoustic composition and free improvisation with dynamic multimedia systems. I thrive at the crossroads of different disciplines, crafting a unique space where **structured chaos** becomes art.
 
+I recently started to explore the intersection of computer music, computer graphics, and military engineering through research and small-scale projects. I investigated AI-driven audio-visual simulations, inspired by advancements in neural rendering and algorithmic music composition, to enhance immersive military training environments. Additionally, I experimented with real-time 3D visualization tools synchronized with procedurally generated soundscapes, aiming to improve situational awareness in simulated combat scenarios. These efforts highlight the potential for creative computational techniques to address complex military engineering challenges, also but not exclusively within the fields of heterogeneous computing with some development over FPGA DSPs.
+
 <div align="center">
   <img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" alt="Coding GIF" width="200"/>
 </div>
