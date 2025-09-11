@@ -1,74 +1,83 @@
 # 👋 Tiago Morais Morgado
 
-> “Composing across sound, code, and vision”
-> “Exploring the intersections of art, technology, and improvisation”
+### **Composer · Researcher · Developer · Improviser**
+
+I forge connections between **music, technology, and visual art** to create immersive, multisensory experiences. My practice explores the fertile ground between **structure and chaos**, where electroacoustic composition, free improvisation, and real-time multimedia systems converge.
+
+My recent work extends into the intersection of **computer music, generative graphics, and military engineering research**, where I experiment with AI-driven audio-visual simulations, procedural 3D environments, and FPGA-based DSPs. These projects seek to reveal how **creative computation** can enhance not only artistic expression but also complex engineering challenges.
+
+<div align="center">
+  <img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" alt="Coding GIF" width="200"/>
+</div>  
+
+<div align="center" style="margin-top: 20px;">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=F7DF1E&center=true&vCenter=true&width=435&lines=Sound+%2B+Code+%2B+Image;Improvisation+as+Research;Structured+Chaos+as+Art" alt="Typing SVG" />
+</div>  
 
 ---
 
-I am a **Composer, Researcher, Developer, and Improviser** working at the crossroads of **music, technology, and visual arts**. My practice combines **electroacoustic composition**, **free improvisation**, and **real-time multimedia systems**, creating immersive experiences where structured chaos turns into art.
+## 🎶 Artistic Practice
 
-My work draws from traditions of **Stockhausen, Boulez, Nancarrow, Zappa, Reich, Riley, Glass**, while engaging with **modern experimental scenes** in electroacoustics, free improvisation, and algorithmic art.
+My compositions draw from the rhythmic intensity of **Stockhausen** and **Xenakis**, the minimalism of **Reich**, **Riley**, and **Glass**, and my own experiments with:
 
-## 🚀 Core Skills & Technologies
+* **Granular synthesis & spectral processes**
+* **Poetic text-to-sound transformations**
+* **Contrapuntal works for percussion, strings & electronics**
 
-* **Electroacoustic Composition & Performance**: SuperCollider, Max/MSP, Ableton Live
-* **Algorithmic & Generative Systems**: Processing, Python, C++ (audio/visual systems)
-* **Improvisation & Instrumental Music**: Viola, Strings, Ensembles, Free Improvisation
-* **Multimedia & Visuals**: Real-time video scoring, abstraction, interactive systems
-* **Poetic & Interdisciplinary Practice**: Text–sound composition, surrealist/modernist influence
-* **Research & Collaboration**: Sonology, STEIM lineage, contemporary experimental music
-* **Software Development**: Open-source tools, multimedia programming, metaprogramming
+I design **audiovisual scores** that integrate **video art**, **sound painting**, and **surrealist poetry**, evoking the dreamlike tension of **German expressionist cinema**.
 
-## 🌟 Featured Projects
-
-### [Para Lá do Sopro da Noite](#)
-
-*A contrapuntal audiovisual composition for percussion and marimbas, blending Lynchian visuals, electroacoustics, and surrealist poetry.*
-
-### [Granular Xenakis Engine](#)
-
-*A SuperCollider-based generative system for granular synthesis in the style of Iannis Xenakis, with real-time visual scores for improvisation.*
-
-### [Improvisation Systems](#)
-
-*Research on free improvisation languages, extending aspects of Richard Barrett and Jon Rose into hybrid instrumental-electroacoustic performance.*
-
-## 🧩 About Me
-
-* 💡 Always seeking to merge **sound, visuals, and code** into new artistic languages
-* 🎼 Advocate for **intuitive composition** and **interdisciplinary experimentation**
-* 🤝 Collaborates with ensembles, radio stations, and research institutions across Europe
-* 🌍 Committed to **open exchange**, often offering works to be performed under others’ names
-
-## 🎮 Hobbies & Interests
-
-* 📚 Philosophy, literature, and poetry (Pessoa, Beckett, Joyce, Dickinson…)
-* 🎬 Experimental cinema & surrealist visuals
-* 🎻 Free improvisation on viola
-* 🎧 Electronic & contemporary music scenes
-
-## 🤔 Fun Fact
-
-> For me, **composition is a dialogue with uncertainty**, where music, code, and images improvise with each other.
+Collaboration is central to my practice: I have curated *Nachtstück Records* and worked with ensembles and institutions like **Vertixe Sonora**, **Stichting Doek**, **Sonology**, and **STEIM** — bridging experimental communities worldwide.
 
 ---
 
-## 🏅 Highlights & Recognition
+## 💻 Technical Work
 
-* Broadcast & premiered works on **BBC Radio 3, Antena 2, WDR 3, Concertzender**
-* Collaborations with ensembles such as **Vertixe Sonora** and members of **Stichting Doek**
-* Former curator of **Nachtstück Records** (2013–2024), releasing key figures in European free improvisation
+I create responsive, real-time systems using:
+
+* **SuperCollider · Pd · Max/MSP · Processing**
+* **Custom visual generators & live coding frameworks**
+* **AI-assisted composition & metaprogramming**
+* **Quantum-inspired models & heterogeneous computing**
+
+As an open-source enthusiast, I advocate for **modular, minimalist workflows** that democratize access to advanced creative tools.
 
 ---
 
-## 🌐 Connect with Me
+## 🌍 Current Directions
 
-- selfdetermindhermit@gmail.com
-- +351934446355
-- 
+I am exploring audiovisual compositions influenced by **David Sylvian’s *Manafon***, while engaging with the intellectual rigor of **Darmstadt, Cologne, and Paris circles**. My current research focuses on:
+
+* **WiFi-based networked performance systems**
+* **AI-driven improvisation and real-time media synthesis**
+* **Interconnected ecosystems for multimedia composition**
+
+I regularly contribute new work to **BBC Radio 3**, **Antena 2**, and **WDR 3**, amplifying experimental voices across international platforms.
+
 ---
 
-👉 Thanks for stopping by! Always open to **collaborations, commissions, and experiments** 👋
+> *“My work is a living canvas where sound, code, and image converge — a space for improvisation, intuition, and the beauty of structured chaos.”*
 
+---
 
-Would you like me to make this **more tech-oriented** (like Leonard’s, emphasizing programming/devops/testing) or keep it **artist-researcher focused** (highlighting your interdisciplinary creative work)?
+<p align="left">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=tmm88&show_icons=true&count_private=true&include_all_commits=true" alt="stats" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tmm88&layout=compact&langs_count=8" alt="top langs" />
+</p>  
+
+<p align="left">
+  <img src="https://streak-stats.demolab.com?user=tmm88" alt="streak" />
+</p>  
+
+<p align="left">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=tmm88&area=true" alt="activity graph" />
+</p>  
+
+---
+
+### 📫 Connect
+
+I’m open to collaborations, improvisation projects, and experimental research. Let’s create something extraordinary together:
+
+* 🎵 [SoundCloud](https://www.google.com/search?q=%23)
+* 📹 [YouTube](https://www.google.com/search?q=%23)
+* 📧 [Email](https://www.google.com/search?q=%23)
