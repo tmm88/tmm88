@@ -1,71 +1,83 @@
 # 👋 Tiago Morais Morgado
 
-### **Composer | Researcher | Developer | Improviser**
+### **Composer · Researcher · Developer · Improviser**
 
-I am an artist who forges connections between **music, technology, and visual art** to create immersive, multisensory experiences. My work is a continuous exploration of intuition and innovation, blending electroacoustic composition and free improvisation with dynamic multimedia systems. I thrive at the crossroads of different disciplines, crafting a unique space where **structured chaos** becomes art.
+I forge connections between **music, technology, and visual art** to create immersive, multisensory experiences. My practice explores the fertile ground between **structure and chaos**, where electroacoustic composition, free improvisation, and real-time multimedia systems converge.
 
-I recently started to explore the intersection of computer music, computer graphics, and military engineering through research and small-scale projects. I investigated AI-driven audio-visual simulations, inspired by advancements in neural rendering and algorithmic music composition, to enhance immersive military training environments. Additionally, I experimented with real-time 3D visualization tools synchronized with procedurally generated soundscapes, aiming to improve situational awareness in simulated combat scenarios. These efforts highlight the potential for creative computational techniques to address complex military engineering challenges, also but not exclusively within the fields of heterogeneous computing with some development over FPGA DSPs.
+My recent work extends into the intersection of **computer music, generative graphics, and military engineering research**, where I experiment with AI-driven audio-visual simulations, procedural 3D environments, and FPGA-based DSPs. These projects seek to reveal how **creative computation** can enhance not only artistic expression but also complex engineering challenges.
 
 <div align="center">
   <img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" alt="Coding GIF" width="200"/>
-</div>
+</div>  
 
 <div align="center" style="margin-top: 20px;">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=F7DF1E&center=true&vCenter=true&width=435&lines=Passionate+About+Code;Always+Learning;Keep+Calm+and+Code+On" alt="Typing SVG" />
-</div>
-<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=F7DF1E&center=true&vCenter=true&width=435&lines=Sound+%2B+Code+%2B+Image;Improvisation+as+Research;Structured+Chaos+as+Art" alt="Typing SVG" />
+</div>  
 
------
+---
 
 ## 🎶 Artistic Practice
 
-My compositions draw inspiration from the rhythmic intensity of composers like Stockhausen and Xenakis and the minimalist sensibilities of Reich, Riley, and Glass. I craft sonic worlds using techniques such as **granular synthesis** and innovative **poetic text-to-sound systems** that blur the lines between language and sonics.
+My compositions draw from the rhythmic intensity of **Stockhausen** and **Xenakis**, the minimalism of **Reich**, **Riley**, and **Glass**, and my own experiments with:
 
-In my audiovisual projects, I design contrapuntal works for percussion, strings, and electronics that are both intellectually rigorous and emotionally resonant. These live performances intertwine **video art**, **sound painting**, and surrealist poetry, evoking the haunting aesthetics of **German expressionist cinema**. My goal is to challenge conventional boundaries of performance and storytelling.
+* **Granular synthesis & spectral processes**
+* **Poetic text-to-sound transformations**
+* **Contrapuntal works for percussion, strings & electronics**
 
-My collaborative work extends across the global avant-garde scene. I am a former curator of *Nachtstück Records* and have collaborated with trailblazing ensembles and organizations like **Vertixe Sonora**, **Stichting Doek**, **Sonology**, and **STEIM**, building bridges across diverse experimental communities.
+I design **audiovisual scores** that integrate **video art**, **sound painting**, and **surrealist poetry**, evoking the dreamlike tension of **German expressionist cinema**.
 
------
+Collaboration is central to my practice: I have curated *Nachtstück Records* and worked with ensembles and institutions like **Vertixe Sonora**, **Stichting Doek**, **Sonology**, and **STEIM** — bridging experimental communities worldwide.
+
+---
 
 ## 💻 Technical Work
 
-As a developer and researcher, I pioneer live electronics with tools like **SuperCollider**, **Processing**, **Pd**, and **Max/MSP**, building responsive and immersive environments. I develop bespoke interfaces and **visual generators** for seamless integration of sound and image.
+I create responsive, real-time systems using:
 
-I am particularly focused on pushing creative boundaries through **AI-assisted composition**, **metaprogramming algorithms**, and **quantum-inspired models**. I'm also an open-source enthusiast, championing minimalist, modular workflows to democratize creativity and make cutting-edge tools accessible to all.
+* **SuperCollider · Pd · Max/MSP · Processing**
+* **Custom visual generators & live coding frameworks**
+* **AI-assisted composition & metaprogramming**
+* **Quantum-inspired models & heterogeneous computing**
 
------
+As an open-source enthusiast, I advocate for **modular, minimalist workflows** that democratize access to advanced creative tools.
+
+---
 
 ## 🌍 Current Directions
 
-My current work delves into audiovisual explorations inspired by the evocative minimalism of **David Sylvian’s *Manafon*** and the intellectual rigor of the Darmstadt, Cologne, and Paris composer circles. I am advancing research into using **WiFi systems and AI for multimedia composition**, creating responsive, interconnected performance ecosystems.
+I am exploring audiovisual compositions influenced by **David Sylvian’s *Manafon***, while engaging with the intellectual rigor of **Darmstadt, Cologne, and Paris circles**. My current research focuses on:
 
-Through regular contributions to platforms like **BBC Radio 3**, **Antena 2**, and **WDR 3**, I continue to share new work and amplify experimental voices across the globe.
+* **WiFi-based networked performance systems**
+* **AI-driven improvisation and real-time media synthesis**
+* **Interconnected ecosystems for multimedia composition**
 
------
+I regularly contribute new work to **BBC Radio 3**, **Antena 2**, and **WDR 3**, amplifying experimental voices across international platforms.
+
+---
 
 > *“My work is a living canvas where sound, code, and image converge — a space for improvisation, intuition, and the beauty of structured chaos.”*
 
------
+---
 
 <p align="left">
   <img height="165" src="https://github-readme-stats.vercel.app/api?username=tmm88&show_icons=true&count_private=true&include_all_commits=true" alt="stats" />
   <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tmm88&layout=compact&langs_count=8" alt="top langs" />
-</p>
+</p>  
 
 <p align="left">
   <img src="https://streak-stats.demolab.com?user=tmm88" alt="streak" />
-</p>
+</p>  
 
 <p align="left">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=tmm88&area=true" alt="activity graph" />
-</p>
+</p>  
 
------
+---
 
 ### 📫 Connect
 
-I am open to collaborations, improvisation projects, and experimental research. Let’s create something extraordinary together.
+I’m open to collaborations, improvisation projects, and experimental research. Let’s create something extraordinary together:
 
-  * 🎵 [SoundCloud](https://www.google.com/search?q=%23)
-  * 📹 [YouTube](https://www.google.com/search?q=%23)
-  * 📧 [Email](https://www.google.com/search?q=%23)
+* 🎵 [SoundCloud](https://www.google.com/search?q=%23)
+* 📹 [YouTube](https://www.google.com/search?q=%23)
+* 📧 [Email](https://www.google.com/search?q=%23)
