@@ -59,14 +59,25 @@ I regularly contribute new work to **BBC Radio 3**, **Antena 2**, and **WDR 3**,
 
 ---
 
-<p align="left">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=tmm88&show_icons=true&count_private=true&include_all_commits=true" alt="stats" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tmm88&layout=compact&langs_count=8" alt="top langs" />
-</p>  
-
-<p align="left">
-  <img src="https://streak-stats.demolab.com?user=tmm88" alt="streak" />
-</p>  
+  <tr>
+    <td>
+      <img src="https://streak-stats.demolab.com?user=tmm88&theme=github-dark-blue&hide_border=true&border_radius=0&date_format=%5BY.%5Dn.j&card_width=409&hide_current_streak=true&hide_longest_streak=true" align="Left" />
+    </td>
+    <td>
+      <img src="https://streak-stats.demolab.com?user=tmm88&theme=github-dark-blue&hide_border=true&border_radius=0&locale=ko&date_format=%5BY.%5Dn.j&card_width=338&hide_total_contributions=true&hide_current_streak=true" align="center" />
+    </td>
+  </tr>
+</table>
+<!-- GitHub stats(https://github-readme-stats.vercel.app) -->
+<table>
+  <tr>
+    <td valign="top" width="55%">
+      <img src="https://github-readme-stats.vercel.app/api?username=tmm88&show_icons=true&count_private=true&hide_border=true&theme=github_dark&hide=contribs,prs" align="center" style="width: 100%" />
+    </td>
+    <td valign="top" width="44%">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tmm88&show_icons=true&theme=github_dark&hide_border=true&layout=compact&langs_count=10" align="center" style="width: 97%" />
+    </td>
+  </tr>
 
 <p align="left">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=tmm88&area=true" alt="activity graph" />
