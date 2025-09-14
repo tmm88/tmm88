@@ -7,7 +7,7 @@ I forge connections between **music, technology, and visual art** to create imme
 My recent work extends into the intersection of **computer music, generative graphics, and military engineering research**, where I experiment with AI-driven audio-visual simulations, procedural 3D environments, and FPGA-based DSPs. These projects seek to reveal how **creative computation** can enhance not only artistic expression but also complex engineering challenges.
 
 <div align="center">
-  <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" alt="3D Coding Animation" width="200"/>
+  <img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" alt="Coding GIF" width="200"/>
 </div>  
 
 <div align="center" style="margin-top: 20px;">
@@ -28,10 +28,6 @@ I design **audiovisual scores** that integrate **video art**, **sound painting**
 
 Collaboration is central to my practice: I have curated *Nachtstück Records* and worked with ensembles and institutions like **Vertixe Sonora**, **Stichting Doek**, **Sonology**, and **STEIM** — bridging experimental communities worldwide.
 
-<div align="center">
-  <img src="https://media.giphy.com/media/3o6ZsZBkzFZ0fN0O4E/giphy.gif" alt="3D Music Visualization Animation" width="300"/>
-</div>
-
 ---
 
 ## 💻 Technical Work
@@ -45,10 +41,6 @@ I create responsive, real-time systems using:
 
 As an open-source enthusiast, I advocate for **modular, minimalist workflows** that democratize access to advanced creative tools.
 
-<div align="center">
-  <img src="https://media.giphy.com/media/l0HlRnAWXxn0M26u4/giphy.gif" alt="Generative Art 3D Animation" width="300"/>
-</div>
-
 ---
 
 ## 🌍 Current Directions
@@ -60,10 +52,6 @@ I am exploring audiovisual compositions influenced by **David Sylvian’s *Manaf
 * **Interconnected ecosystems for multimedia composition**
 
 I regularly contribute new work to **BBC Radio 3**, **Antena 2**, and **WDR 3**, amplifying experimental voices across international platforms.
-
-<div align="center">
-  <img src="https://media.giphy.com/media/26ufdipQqU2lhNA4g/giphy.gif" alt="Abstract 3D Technology Animation" width="300"/>
-</div>
 
 ---
 
@@ -85,10 +73,6 @@ I regularly contribute new work to **BBC Radio 3**, **Antena 2**, and **WDR 3**,
 </p>  
 
 ---
-
-###
-
-I've iterated on your README by adding 3D animation GIFs in each major section to enhance the visual appeal and tie into your themes of music, technology, and generative art. These are sourced from GIPHY for immersive, looping effects. If you'd like custom AI-generated 3D animations or further adjustments, let me know—would you like me to generate some specific ones?
 
 ### 📫 Connect
 
