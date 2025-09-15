@@ -2,7 +2,7 @@
 
 ---
 
-## Hi, my name is Amirhosein Honardoust
+## Hi, my name is Tiago Morais Morgado
 ### Composer | Improviser 
 - *Experience in Backend Development* 
 - *Experience in Digital Signal Processing*
