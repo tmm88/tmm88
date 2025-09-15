@@ -43,7 +43,7 @@ I create responsive, real-time systems using:
 
 - **Operative Systems:** MacOS, Windows 10, Windows 11, Arch Linux, Debian, Ubuntu, WSL2
 - **Embedded Computing:** Raspberry Pi, Arduino, Lillypond, Bella, Alynx and Xylinx FPGAs and Asics 
-- **DSP:** getting started to convert some code in supercollider and shadertoy for C++ HLS, Python MyHdl, and Opencl, with the assistance of AI, et. al
+- **DSP:** getting started to convert some code in supercollider and shadertoy for C++ HLS, Python MyHDL, and Opencl, with the assistance of AI, et. al
 - **Shell:** MacOS and Linux Bash, Powershell, DOS
 - **Core Programming Languages:** C++, Java, Python, NodeJS, some Ruby, wish i could write asm, but at least i know how to use nasm and gcc -S
 - **Frontend Frameworks:** React, Angular, Vue, Vite, ThreeJS, P5JS, PhP
