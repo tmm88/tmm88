@@ -34,10 +34,22 @@ Collaboration is central to my practice: I have curated *Nachtstück Records* an
 
 I create responsive, real-time systems using:
 
-* **SuperCollider · Pd · Max/MSP · Processing**
-* **Custom visual generators & live coding frameworks**
-* **AI-assisted composition & metaprogramming**
-* **Quantum-inspired models & heterogeneous computing**
+## Creative Coding
+
+- **Audio:** Ableton, Pd, M4L, MaxMSP, Supercollider, Musescore, FMOD, WWise, JSMidGen, Pydub, JunXion, LiSa, RoSa
+- **Graphics:** Processing, P5js, ThreeJS, Cinema 4D, Unity, Unreal Engine, CryEngine
+
+## IT
+
+- **Operative Systems:** MacOS, Windows 10, Windows 11, Arch Linux, Debian, Ubuntu, WSL2
+- **Embedded Computing:** Raspberry Pi, Arduino, Alynx and Xylinx FPGAs and Asics 
+- **DSP:** getting started to convert some code in supercollider and shadertoy for those lattforms with the assistance of AI, et. al
+- **Shell:** MacOS and Linux Bash, Powershell, DOS
+- **Core Programming Languages:** C++, Java, Python, NodeJS, some Ruby, wish i could write asm, but at least i know how to use nasm and gcc -S
+- **Frontend Frameworks:** React, Angular, Vue, Vite, ThreeJS, P5JS, PhP
+- **Virualization:** Virtualbox, Parallels, QEMU
+- **Python Frameworks:** recently exploring Flask (pretty easy and straightfoward), Tensorflow, Theano, OpenCV, PyCuda, Sci-kit, Matplotlib, Numba, etc.
+- **CMS:** know at least how to use Wordpress
 
 As an open-source enthusiast, I advocate for **modular, minimalist workflows** that democratize access to advanced creative tools.
 
