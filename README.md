@@ -1,33 +1,42 @@
 # 👋 Tiago Morais Morgado
 
-### **Composer · Researcher · Developer · Improviser**
-
-I forge connections between **music, technology, and visual art** to create immersive, multisensory experiences. My practice explores the fertile ground between **structure and chaos**, where electroacoustic composition, free improvisation, and real-time multimedia systems converge.
-
-My recent work extends into the intersection of **computer music, generative graphics, and military engineering research**, where I experiment with AI-driven audio-visual simulations, procedural 3D environments, and FPGA-based DSPs. These projects seek to reveal how **creative computation** can enhance not only artistic expression but also complex engineering challenges.
-
-<div align="center">
-  <img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" alt="Coding GIF" width="200"/>
-</div>  
-
-<div align="center" style="margin-top: 20px;">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=F7DF1E&center=true&vCenter=true&width=435&lines=Sound+%2B+Code+%2B+Image;Improvisation+as+Research;Structured+Chaos+as+Art" alt="Typing SVG" />
-</div>  
-
 ---
 
-## 🎶 Artistic Practice
+## Hi, my name is Amirhosein Honardoust
+### Composer | Improviser 
+- *Experience in Backend Development* 
+- *Experience in Digital Signal Processing*
+- *Experience in Sound And Computer Graphics*
+  
+---
 
-My compositions draw from the rhythmic intensity of **Stockhausen** and **Xenakis**, the minimalism of **Reich**, **Riley**, and **Glass**, and my own experiments with:
+## About Me
+- HBO Lv 2 and 4 in Classical Music performance (2000-2006)
+- Attendance of Musicology Bachelors for 2 years, in 2 different univerities (2006-2008)
+- Bachelors in Computer Music (2008-2011)
+- Master in sonology (2011-2013)
 
-* **Granular synthesis & spectral processes**
-* **Poetic text-to-sound transformations**
-* **Contrapuntal works for percussion, strings & electronics**
+--- 
 
-I design **audiovisual scores** that integrate **video art**, **sound painting**, and **surrealist poetry**, evoking the dreamlike tension of **German expressionist cinema**.
+### Experiencied in:
 
-Collaboration is central to my practice: I have curated *Nachtstück Records* and worked with ensembles and institutions like **Vertixe Sonora**, **Stichting Doek**, **Sonology**, and **STEIM** — bridging experimental communities worldwide.
+#### MUSIC:
+- sound design
+- digital and analogue synthesis
+- live electronics
+- algorrithmic composition
+- interactive systems
+- vr/ar/xr/mr
+- composition of instrumental works
+- composition of electronic works
+- composition of mixed works
+- free improvisation
+- sound engineering
+- feidl recordings
 
+#### CAN WORK WITH COMPUTER GRAPHICS
+#### CAN WORK WITH FULLSTACK WITH A FOCUS ON BACKEND DEVELOPMENT
+  
 ---
 
 ## 💻 Technical Work
