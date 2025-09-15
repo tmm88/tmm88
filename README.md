@@ -37,7 +37,7 @@ I create responsive, real-time systems using:
 ## Creative Coding
 
 - **Audio:** Ableton, Pd, M4L, MaxMSP, Supercollider, Musescore, FMOD, WWise, JSMidGen, Pydub, JunXion, LiSa, RoSa
-- **Graphics:** Processing, P5js, ThreeJS, Cinema 4D, Unity, Unreal Engine, CryEngine
+- **Graphics:** Processing, P5js, ThreeJS, Cinema 4D, Unity, Unreal Engine
 
 ## IT
 
