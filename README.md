@@ -11,28 +11,28 @@
 ---
 
 ## About Me
-- HBO Lv 2 and 4 in Classical Music performance (2000-2006)
-- Attendance of Musicology Bachelors for 2 years, in 2 different univerities (2006-2008)
-- Bachelors in Computer Music (2008-2011)
-- Master in sonology (2011-2013)
+- *HBO Lv 2 and 4 in Classical Music performance (2000-2006)*
+- *Attendance of Musicology Bachelors for 2 years, in 2 different univerities (2006-2008)*
+- *Bachelors in Computer Music (2008-2011)*
+- *Master in sonology (2011-2013)*
 
 --- 
 
 ### Experiencied in:
 
 #### MUSIC:
-- sound design
-- digital and analogue synthesis
-- live electronics
-- algorrithmic composition
-- interactive systems
-- vr/ar/xr/mr
-- composition of instrumental works
-- composition of electronic works
-- composition of mixed works
-- free improvisation
-- sound engineering
-- feidl recordings
+- *sound design*
+- *digital and analogue synthesis*
+- *live electronics*
+- *algorrithmic composition*
+- *interactive systems*
+- *vr/ar/xr/mr*
+- *composition of instrumental works*
+- *composition of electronic works*
+- *composition of mixed works*
+- *free improvisation*
+- *sound engineering*
+- *feidl recordings*
 
 #### CAN WORK WITH COMPUTER GRAPHICS
 #### CAN WORK WITH FULLSTACK WITH A FOCUS ON BACKEND DEVELOPMENT
