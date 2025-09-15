@@ -13,8 +13,8 @@
 ## About Me
 - *HBO Lv 2 and 4 in Classical Music performance (2000-2006)*
 - *Attendance of Musicology Bachelors for 2 years, in 2 different univerities (2006-2008)*
-- *Bachelors in Computer Music (2008-2011)*
-- *Master in sonology (2011-2013)*
+- *Bachelors in Computer Music (2008-2011) - HBO lv 5-6*
+- *Master in sonology (2011-2013) HBO Lv. 7*
 
 --- 
 
