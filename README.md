@@ -62,7 +62,7 @@ I create responsive, real-time systems using:
 - **Frontend Frameworks:** React, Angular, Vue, Vite, ThreeJS, P5JS, PhP
 - **Virualization:** Virtualbox, Parallels, QEMU
 - **Python Frameworks:** recently exploring Flask (pretty easy and straightfoward), Tensorflow, Theano, OpenCV, PyCuda, Sci-kit, Matplotlib, Numba, etc.
-- **CMS:** know at least how to use Wordpress, tried a bit of Drupal, can work with Appache in localhost, as well as MAMP, LAMP, and XAP 
+- **CMS:** know at least how to use Wordpress, tried a bit of Drupal, can work with Appache in localhost, as well as MAMP, LAMP, and XAMP 
 
 As an open-source enthusiast, I advocate for **modular, minimalist workflows** that democratize access to advanced creative tools.
 
