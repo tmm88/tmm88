@@ -33,6 +33,10 @@
 - *free improvisation*
 - *sound engineering*
 - *feidl recordings*
+- *viola - bratsche - performance*
+- *piano performance*
+- *laptop performance*
+- *sound spatialization*
 
 #### CAN WORK WITH COMPUTER GRAPHICS
 #### CAN WORK WITH FULLSTACK WITH A FOCUS ON BACKEND DEVELOPMENT
