@@ -84,10 +84,6 @@ I regularly contribute new work to **BBC Radio 3**, **Antena 2**, and **WDR 3**,
 
 ---
 
-### 📫 Connect
+### Contact:
 
-I’m open to collaborations, improvisation projects, and experimental research. Let’s create something extraordinary together:
-
-* 🎵 [SoundCloud](https://www.google.com/search?q=%23)
-* 📹 [YouTube](https://www.google.com/search?q=%23)
-* 📧 [Email](https://www.google.com/search?q=%23)
+selfdeterminedhermit@gmail.com - +351934446355 - available for hire - donations (paypal) - tiagomoraimorgado2014@gmail.com
