@@ -84,6 +84,6 @@ I regularly contribute new work to **BBC Radio 3**, **Antena 2**, and **WDR 3**,
 
 ---
 
-### Contact:
+## Contacts:
 
 selfdeterminedhermit@gmail.com - +351934446355 - available for hire - donations (paypal) - tiagomoraimorgado2014@gmail.com
