@@ -84,21 +84,6 @@ I regularly contribute new work to **BBC Radio 3**, **Antena 2**, and **WDR 3**,
 
 ---
 
-<p align="left">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=tmm88&show_icons=true&count_private=true&include_all_commits=true" alt="stats" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tmm88&layout=compact&langs_count=8" alt="top langs" />
-</p>  
-
-<p align="left">
-  <img src="https://streak-stats.demolab.com?user=tmm88" alt="streak" />
-</p>  
-
-<p align="left">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=tmm88&area=true" alt="activity graph" />
-</p>  
-
----
-
 ### 📫 Connect
 
 I’m open to collaborations, improvisation projects, and experimental research. Let’s create something extraordinary together:
