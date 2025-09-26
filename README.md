@@ -13,12 +13,12 @@
 ---
 
 ## About Me
-With a strong foundation in classical music performance and advanced degrees in computer music and sonology, I bridge the worlds of artistic expression and technological innovation. My background equips me to create immersive, interactive experiences across music, digital media, and software development.
+With a robust background in classical music performance and advanced degrees in computer music and sonology, I seamlessly blend artistic expression with cutting-edge technology. My expertise enables me to craft immersive, interactive experiences in music, digital media, and software development.
 
-- **Higher Professional Education (HBO) Levels 2 and 4 in Classical Music Performance** (2000–2006)
-- **Partial Attendance in Musicology Bachelor's Programs** at two universities (2006–2008)
-- **Bachelor's in Computer Music** (HBO Levels 5–6, 2008–2011)
-- **Master's in Sonology** (HBO Level 7, 2011–2013)
+- HBO Levels 2 and 4 in Classical Music Performance (2000–2006)
+- Partial Completion of Musicology Bachelor's Programs at two universities (2006–2008)
+- Bachelor's in Computer Music (HBO Levels 5–6, 2008–2011)
+- Master's in Sonology (HBO Level 7, 2011–2013)
 
 ---
 
