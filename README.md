@@ -4,11 +4,11 @@
 
 ## Hi, I'm Tiago Morais Morgado
 
-**Composer:** *Crafting evocative and innovative musical compositions.*<br/>
-**Improviser:** *Skilled in spontaneous, expressive musical performance.*<br/>
-**Backend Developer:** *Building robust and scalable systems for seamless functionality.*<br/>
-**Digital Signal Processing Specialist:** *Expert in manipulating and optimizing audio signals for cutting-edge applications.*<br/>
-**Sound & Computer Graphics Expert:** *Blending immersive audio design with advanced visual computing.*<br/>
+**Composer:** *Creating captivating and original musical works that resonate emotionally and push creative boundaries.*  
+**Improviser:** *Master of spontaneous, dynamic musical expression, weaving artistry in real-time performance.*  
+**Backend Developer:** *Engineering robust, scalable systems to ensure seamless and efficient functionality.*  
+**Digital Signal Processing Specialist:** *Expert in analyzing and enhancing audio signals for innovative, high-performance applications.*  
+**Sound & Computer Graphics Expert:** *Fusing immersive audio design with cutting-edge visual computing for transformative experiences.*  
 
 ---
 
