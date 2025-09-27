@@ -4,11 +4,47 @@
 
 ## Hi, I'm Tiago Morais Morgado
 
-**Composer:** *Creating captivating and original musical works that resonate emotionally and push creative boundaries.*  
-**Improviser:** *Master of spontaneous, dynamic musical expression, weaving artistry in real-time performance.*  
-**Backend Developer:** *Engineering robust, scalable systems to ensure seamless and efficient functionality.*  
-**Digital Signal Processing Specialist:** *Expert in analyzing and enhancing audio signals for innovative, high-performance applications.*  
-**Sound & Computer Graphics Expert:** *Fusing immersive audio design with cutting-edge visual computing for transformative experiences.*  
+Professional Expertise and Creative Proficiencies
+Composer
+Crafting original, emotionally resonant musical works that push the boundaries of creativity and connect deeply with audiences.  
+
+Creative Process: Composes across genres, from classical and electronic to experimental and cinematic, tailoring compositions to evoke specific moods or narratives. Uses tools like Ableton Live, Logic Pro, and LilyPond for precise notation and production.  
+Applications: Created scores for short films, video games, and immersive installations, collaborating with directors and developers to align music with visual storytelling. Notable projects include a generative ambient soundtrack for an interactive art exhibit.  
+Innovation: Integrates algorithmic composition techniques, leveraging Python scripts and AI models (e.g., Magenta) to explore novel harmonic structures and timbres, blending human intuition with computational creativity.  
+Impact: Produces works that resonate with diverse audiences, from concert halls to digital platforms, with a focus on emotional depth and cultural relevance.
+
+Improviser
+Mastering spontaneous musical expression, delivering dynamic, real-time performances that captivate and inspire.  
+
+Performance Expertise: Skilled in live improvisation across instruments (e.g., piano, guitar, modular synthesizers), weaving intricate melodies and textures in response to audience energy or collaborative cues.  
+Contexts: Performed in jazz ensembles, experimental music festivals, and live-coding events, using platforms like SuperCollider for real-time audio synthesis.  
+Technical Integration: Combines improvisation with live-looping hardware (e.g., Ableton Push) and software, creating layered, evolving soundscapes during performances.  
+Collaborative Artistry: Excels in interdisciplinary settings, improvising alongside dancers, visual artists, or AI-driven visuals to create immersive, multi-sensory experiences.
+
+Backend Developer
+Designing and engineering robust, scalable systems to power seamless, high-performance applications.  
+
+Technical Proficiency: Builds RESTful APIs and microservices using Node.js, Python (Flask/Django), and Java (Spring Boot), ensuring reliability and scalability for web and mobile platforms.  
+Database Management: Proficient in SQL (PostgreSQL, MySQL) and NoSQL (MongoDB) databases, optimizing queries and designing schemas for high-throughput applications.  
+DevOps Practices: Implements CI/CD pipelines with GitHub Actions, Docker, and Kubernetes, ensuring automated testing and deployment for production environments.  
+Use Cases: Developed backend systems for real-time audio streaming platforms, integrating WebSocket for low-latency communication and AWS for scalable storage and compute.
+
+Digital Signal Processing Specialist
+Expert in analyzing, manipulating, and optimizing audio signals to create innovative, high-fidelity applications.  
+
+Core Skills: Designs DSP algorithms for audio effects (e.g., reverb, equalization, pitch shifting) using C++ (JUCE framework), Python (NumPy, SciPy), and hardware-accelerated platforms like FPGAs via HLS.  
+Code Conversion: Converts audio processing code from SuperCollider and Shadertoy to C++ HLS, Python MyHDL, and OpenCL for real-time performance on embedded systems or GPUs.  
+AI Integration: Leverages machine learning (e.g., TensorFlow) to enhance DSP tasks, such as noise reduction or source separation, trained on custom audio datasets.  
+Applications: Built audio processing pipelines for music production tools, live performance systems, and spatial audio for VR/AR, achieving low-latency and high-quality output.
+
+Sound & Computer Graphics Expert
+Fusing immersive audio design with cutting-edge visual computing to deliver transformative, multi-sensory experiences.  
+
+Audio-Visual Integration: Combines Three.js and WebGL for 3D visualizations synchronized with spatial audio, using libraries like Tone.js for precise sound control.  
+Creative Coding: Utilizes p5.js for generative art and interactive installations, where audio parameters (e.g., amplitude, frequency) drive visual animations in real time.  
+Applications: Developed immersive experiences for VR environments, museum exhibits, and live performances, integrating audio-reactive visuals with tools like Unity or Unreal Engine.  
+Innovation: Explores AI-driven audio-visual synthesis, using neural networks to generate synchronized soundscapes and visuals, enhancing user engagement in gaming or virtual reality.  
+Collaborative Projects: Worked with interdisciplinary teams to create installations where soundscapes dynamically influence particle systems or shader effects, creating cohesive, immersive environments.  
 
 ---
 
