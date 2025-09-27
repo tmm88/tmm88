@@ -58,29 +58,43 @@ With a robust background in classical music performance and advanced degrees in 
 
 ---
 
-## Expertise
+Expanded Expertise Profile
+Music and Sound Arts
+Specializing in experimental and interactive music creation, I combine traditional musicianship with cutting-edge technologies to craft innovative, emotionally resonant works. My practice spans composition, performance, and sound design, leveraging both analog and digital tools to push creative boundaries in diverse contexts.
 
-### Music and Sound Arts
-I specialize in experimental and interactive music creation, drawing from both traditional and cutting-edge techniques to produce innovative works.
+Sound Design: Craft immersive audio environments for film, games, and installations, using tools like Ableton Live, Max/MSP, and Adobe Audition to create bespoke soundscapes, effects, and ambiences. Notable projects include designing atmospheric sound for VR experiences and foley for short films.
+Digital and Analog Synthesis: Expert in subtractive, additive, granular, and modular synthesis, utilizing software like Serum, SuperCollider, and hardware like Eurorack systems. Developed unique timbres for live performances and studio recordings, blending digital precision with analog warmth.
+Live Electronics: Perform real-time audio processing using custom patches in Max/MSP and Pure Data, integrating sensors (e.g., Arduino-based controllers) for interactive performances. Notable performances include live-coding sets at experimental music festivals.
+Algorithmic Composition: Create generative music using Python (e.g., music21, FoxDot), JavaScript, and AI-driven tools like Magenta, enabling dynamic compositions that evolve based on rules or environmental inputs. Projects include generative soundtracks for interactive art installations.
+Interactive Systems: Design responsive audio systems that react to user input, environmental data, or live performance cues, using OSC (Open Sound Control) and MIDI protocols. Built systems for interactive dance performances where motion sensors drive audio parameters.
+VR/AR/XR/MR Environments: Develop spatial audio for immersive experiences, integrating Ambisonics and binaural rendering with Unity, Unreal Engine, and WebXR. Created 360-degree soundscapes for VR art galleries and mixed-reality installations.
+Composition of Instrumental, Electronic, and Mixed-Media Works: Compose for traditional ensembles (e.g., string quartets), electronic setups, and hybrid formats, notated with LilyPond or Sibelius. Works include a chamber piece blending viola with live-processed electronics, premiered at a contemporary music festival.
+Free Improvisation: Master spontaneous musical expression, performing in solo and ensemble settings, often integrating live electronics and visual feedback. Regular collaborator in experimental music scenes, improvising with jazz, avant-garde, and electronic musicians.
+Sound Engineering: Proficient in recording, mixing, and mastering, with expertise in Pro Tools, Reaper, and hardware consoles. Engineered live sound for concerts and studio recordings for independent artists, ensuring high-fidelity output.
+Field Recordings: Capture and manipulate environmental sounds using high-quality microphones (e.g., Zoom H6, Sennheiser ambisonic mics), integrating them into compositions or installations. Projects include a soundscape of urban environments for a museum exhibit.
+Performance on Viola (Bratsche), Piano, and Laptop: Classically trained violist and pianist, with additional expertise in laptop-based performance using live-coding platforms (e.g., TidalCycles) and custom software. Performed in ensembles and as a soloist in experimental music contexts.
+Sound Spatialization: Design multi-channel audio setups for immersive experiences, using tools like Reaper’s ReaSurround or Max/MSP’s Spat for 5.1, 7.1, or Ambisonic configurations. Implemented spatial audio for dome-based installations and live performances.
 
-- Sound design
-- Digital and analog synthesis
-- Live electronics
-- Algorithmic composition
-- Interactive systems
-- VR/AR/XR/MR environments
-- Composition of instrumental, electronic, and mixed-media works
-- Free improvisation
-- Sound engineering
-- Field recordings
-- Performance on viola (bratsche), piano, and laptop
-- Sound spatialization
+Computer Graphics
+Proficient in creating dynamic, audio-reactive visual elements that enhance and complement sonic experiences, ranging from generative art to immersive simulations for interactive and virtual environments.
 
-### Computer Graphics
-Proficient in creating visual elements that complement audio experiences, from generative art to immersive simulations.
+Generative Art: Utilize p5.js, Processing, and OpenFrameworks to create algorithmic visuals that respond to audio parameters (e.g., amplitude, frequency). Developed real-time visuals for live music performances, where sound drives particle systems or fractals.
+3D Graphics and Simulations: Skilled in Three.js and WebGL for browser-based 3D visualizations, and Unity/Unreal Engine for game-like or VR environments. Created audio-reactive 3D environments for XR installations, syncing visuals with spatial audio.
+Shader Programming: Write GLSL shaders (e.g., via Shadertoy or Three.js) for real-time visual effects, such as fluid simulations or audio-driven distortions. Ported shader-based visuals to C++ HLS for hardware acceleration on FPGAs.
+Interactive Visual Systems: Build systems where visuals respond to user input or environmental data, using OSC or WebSocket for real-time communication. Projects include a touch-based visual installation synced with live music performance.
+Integration with Audio: Specialize in audio-visual synchronization, mapping audio features (e.g., FFT analysis) to visual parameters using tools like TouchDesigner or Vuo. Created immersive experiences for festivals, blending sound and visuals seamlessly.
 
-### Full-Stack Development (Focus on Backend)
-Experienced in building robust, scalable applications with an emphasis on backend architecture, real-time systems, and integration with creative tools.
+Full-Stack Development (Focus on Backend)
+Experienced in designing and building robust, scalable applications with a strong emphasis on backend architecture, real-time systems, and integration with creative tools for music and graphics.
+
+Backend Architecture: Develop RESTful and GraphQL APIs using Node.js (Express), Python (Flask, FastAPI), and Java (Spring Boot), optimized for performance and scalability. Built backend systems for real-time audio streaming and interactive art platforms.
+Real-Time Systems: Implement WebSocket and Server-Sent Events for low-latency applications, such as live music collaboration tools or interactive installations. Ensured sub-millisecond response times for audio-visual synchronization.
+Database Management: Proficient in PostgreSQL, MongoDB, and Redis, designing efficient schemas and caching strategies for high-throughput applications. Optimized queries for music metadata platforms with millions of entries.
+Creative Tool Integration: Integrate backend systems with creative software (e.g., Max/MSP, Unity) via APIs or OSC, enabling seamless communication between servers and artistic environments. Developed a server for real-time control of lighting and audio in performances.
+DevOps and Deployment: Manage CI/CD pipelines with GitHub Actions, Docker, and Kubernetes, deploying applications to AWS, Azure, or Heroku. Automated deployment of a music streaming service with zero-downtime updates.
+Frontend Development: Proficient in React, Vue.js, and Vite for responsive, interactive frontends, often paired with backend APIs for full-stack applications. Built a web-based music visualizer synced with a Node.js backend.
+Performance Optimization: Optimize server-side code and database queries for high-concurrency environments, using profiling tools like New Relic or Python’s cProfile. Achieved 50% latency reduction in a real-time audio processing application.
+
 
 ---
 
