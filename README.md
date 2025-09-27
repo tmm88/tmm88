@@ -223,17 +223,35 @@ Antena 2: Premiered telematic and AI-driven works, connecting Portuguese and glo
 WDR 3: Presented avant-garde pieces inspired by the Cologne school, integrating live electronics and AI synthesis, broadcast as part of their experimental music series.
 Global Dialogue: Actively participate in festivals, conferences, and residencies (e.g., Darmstadt Summer Courses), sharing research on networked performance and AI-driven creativity, fostering cross-cultural and interdisciplinary collaboration.
 
-My work continues to evolve, driven by a commitment to exploring new sonic and visual frontiers, informed by the avant-garde’s legacy of challenging conventions and embracing innovation.
+Evolving Creative Vision
+My creative and technical practice is a dynamic journey, continuously unfolding at the intersection of sonic exploration, visual innovation, and computational artistry. Rooted in the avant-garde’s fearless legacy—drawing from the radical experimentation of Darmstadt, the electronic pioneering of Cologne, and the interdisciplinary ethos of Paris—I am committed to pushing the boundaries of what is possible in contemporary music and multimedia. My work embraces the unpredictable beauty of structured chaos, weaving together sound, code, and imagery to create immersive experiences that challenge conventions and resonate on a deeply human level.
+This evolution is driven by a relentless pursuit of new frontiers. I explore emerging technologies—such as AI-driven synthesis, networked performance systems, and extended reality (VR/AR/XR)—to expand the possibilities of artistic expression. My projects blend the tactile intimacy of traditional instruments like the viola and piano with the boundless potential of digital tools, from live-coding platforms like TidalCycles to 3D visual engines like Three.js. Each work is an experiment, a dialogue between intuition and structure, improvisation and precision, human creativity and machine intelligence.
+
+“My practice is a living ecosystem where sound, code, and visuals intertwine—a dynamic canvas for improvisation, intuition, and the elegance of controlled chaos. Here, technology amplifies the human spirit, creating spaces where art transcends boundaries and invites connection.”
+
+This vision manifests in my contributions to global platforms like BBC Radio 3, Antena 2, and WDR 3, where my compositions and performances spark dialogue within the international avant-garde community. Whether crafting a networked performance for distributed musicians, designing AI-driven audio-visual installations, or composing for mixed-media ensembles, my work seeks to bridge disciplines, cultures, and technologies. As I continue to innovate, I remain guided by the avant-garde’s ethos: to challenge, to reimagine, and to create art that resonates with the complexities of our time.
+
 ---
 
-> *“My work is a living canvas where sound, code, and image converge — a space for improvisation, intuition, and the beauty of structured chaos.”*
+Connect and Collaborate
+I am passionate about forging connections that spark innovation at the intersection of music, technology, and interdisciplinary art. Whether you're seeking a composer for experimental soundscapes, a developer for cutting-edge software solutions, or a collaborator for immersive multimedia projects, I am excited to explore how we can create something extraordinary together. Below are my contact details and availability for new opportunities.
 
----
+Primary Email: selfdeterminedhermit@gmail.comFor inquiries related to music composition, software development, performances, or interdisciplinary collaborations. I aim to respond within 24–48 hours.
+PayPal/Donations Email: tiagomoraimorgado2014@gmail.comFor contributions to support my ongoing creative and research projects, including experimental music, AI-driven art, and networked performance systems.
+Phone: +351 934 446 355Available for direct calls or WhatsApp for quick discussions or project consultations (please respect time zone: WEST, UTC+1). Text or email preferred for initial contact.
+Social Media and Professional Platforms:  
+X: @selfdeterminedhermit (for updates on performances, projects, and research)  
+GitHub: github.com/selfdeterminedhermit (for open-source code repositories, including music and graphics projects)  
+SoundCloud: soundcloud.com/selfdeterminedhermit (for listening to recent compositions and performances)  
+LinkedIn: linkedin.com/in/tiago-morais-morgado (for professional networking and project proposals)
 
-## Contact Me
 
-- **Email:** selfdeterminedhermit@gmail.com (primary) | tiagomoraimorgado2014@gmail.com (donations via PayPal)
-- **Phone:** +351 934 446 355
-- **Availability:** Open for hire, collaborations, or consultations in music composition, software development, or interdisciplinary projects.
+Availability:  
+Open for Hire: Seeking full-time, part-time, or contract roles in music composition, sound design, backend/full-stack development, or digital signal processing.  
+Collaborations: Eager to partner with artists, technologists, and researchers on experimental music, interactive installations, VR/AR/XR projects, or AI-driven creative systems.  
+Consultations: Available for short-term consultations on topics like networked performance systems, algorithmic composition, audio-visual integration, or creative coding. Flexible scheduling for remote or hybrid engagements.  
+Time Zone: Based in Portugal (WEST, UTC+1), with availability for global collaboration via asynchronous communication or scheduled meetings.
 
-Let's connect to explore how we can innovate together!
+
+
+Let’s Innovate Together!I’m excited to connect with visionaries who share a passion for pushing the boundaries of art and technology. Whether you’re a musician interested in networked performances, a developer exploring AI-driven media, or an organization seeking innovative multimedia solutions, let’s collaborate to create transformative experiences. Reach out via email, phone, or social platforms to discuss ideas, projects, or opportunities. I look forward to weaving sound, code, and visuals into something truly groundbreaking with you!
