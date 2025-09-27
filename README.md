@@ -189,16 +189,41 @@ Experienced in deploying, customizing, and maintaining CMS platforms for web con
 
 ---
 
-## 🌍 Current Directions and Research
+Current Directions and Research
+My work resides at the confluence of cutting-edge technology and avant-garde artistry, drawing inspiration from David Sylvian's Manafon—a seminal work of sparse, introspective improvisation—and the intellectual rigor of the Darmstadt, Cologne, and Paris avant-garde scenes. These influences inform my exploration of experimental music, interactive systems, and multimedia composition, blending technical innovation with expressive creativity. My research and creative practice focus on three interconnected areas, each pushing the boundaries of contemporary music and media through interdisciplinary approaches.
+WiFi-Based Networked Performance Systems
+Developing low-latency, collaborative platforms to enable distributed musicians and performers to create cohesive, real-time performances across geographic boundaries.
 
-My work explores the intersection of technology and artistry, inspired by David Sylvian's album *Manafon* and the intellectual traditions of the Darmstadt, Cologne, and Paris avant-garde scenes. Key focus areas include:
+Technical Architecture: Designing systems using WebRTC and WebSocket protocols for ultra-low-latency audio and MIDI transmission, integrated with Node.js or Python FastAPI backends. These platforms support real-time synchronization of audio, visuals, and control data, achieving latencies below 20ms over standard WiFi networks.
+Applications: Created a networked performance platform for a global ensemble, premiered on BBC Radio 3, allowing musicians in different continents to improvise together seamlessly. The system supports OSC (Open Sound Control) for interfacing with DAWs like Ableton Live and live-coding environments like SuperCollider.
+Innovations: Implementing adaptive jitter buffers and AI-driven latency prediction models to optimize performance stability in variable network conditions. Experimented with 5G integration for enhanced bandwidth and reliability in live settings.
+Collaborative Impact: Facilitating cross-cultural performances, such as a telematic concert series broadcast on Antena 2, fostering dialogue between international artists and audiences through shared virtual stages.
 
-- **WiFi-Based Networked Performance Systems:** Developing low-latency, collaborative platforms for distributed musicians and performers.
-- **AI-Driven Improvisation and Real-Time Media Synthesis:** Leveraging machine learning to generate adaptive audio-visual content in live settings.
-- **Interconnected Ecosystems for Multimedia Composition:** Building modular frameworks that integrate sound, code, graphics, and emerging technologies for holistic creative expression.
+AI-Driven Improvisation and Real-Time Media Synthesis
+Leveraging machine learning to create adaptive, generative audio-visual content for live performances and interactive installations, pushing the boundaries of spontaneous artistic expression.
 
-I actively contribute experimental compositions and performances to international platforms, including BBC Radio 3, Antena 2, and WDR 3, fostering global dialogue in contemporary music.
+AI Models: Utilizing deep learning frameworks (e.g., TensorFlow, PyTorch) to train generative models on datasets of experimental music and visual art. Developed a recurrent neural network (RNN) for real-time melody generation, trained on improvisations inspired by the Cologne avant-garde.
+Real-Time Synthesis: Integrating AI with live-coding platforms like TidalCycles and Max/MSP to generate adaptive audio-visual outputs. For example, created a performance system where AI responds to live viola input, generating complementary synth textures and GLSL-based visuals in real time.
+Applications: Contributed an AI-driven improvisation piece to WDR 3’s experimental music program, where machine-generated audio interacted with human performers, creating a dynamic dialogue. Also developed an interactive installation where audience movements influence AI-generated soundscapes and visuals.
+Research Focus: Exploring ethical AI in creative contexts, ensuring models amplify human artistry rather than replace it. Investigating transformer-based models for multi-modal synthesis, combining audio, visuals, and text for immersive experiences.
 
+Interconnected Ecosystems for Multimedia Composition
+Building modular, extensible frameworks that integrate sound, code, graphics, and emerging technologies to enable holistic, interdisciplinary creative expression.
+
+Framework Design: Developing ecosystems using Python (music21, Pyo), JavaScript (Tone.js, Three.js), and C++ (JUCE) to create modular pipelines for multimedia composition. These frameworks allow seamless integration of audio processing, visual rendering, and sensor data (e.g., from Arduino or Kinect).
+Practical Implementations: Created a multimedia composition platform for a Paris-based festival, combining spatial audio (Ambisonics), generative visuals (WebGL), and live-coded music. The system allowed performers to manipulate sound and visuals via a unified interface, premiered as a mixed-media installation.
+Emerging Technologies: Incorporating VR/AR/XR environments using Unity and WebXR, with spatial audio rendered via Ambisonic toolkits. Developed a mixed-reality performance where audience smartphones interacted with a virtual soundscape, enhancing immersion.
+Interdisciplinary Impact: Contributing to global platforms like BBC Radio 3 and Antena 2 with compositions that blend traditional instrumentation (viola, piano) with digital synthesis and visuals, fostering dialogue in contemporary music. Collaborated with visual artists and coders to create installations exhibited at international festivals, bridging art and technology.
+
+Contributions to Global Platforms
+Actively engaging with international music and arts communities through experimental compositions, performances, and research outputs.
+
+BBC Radio 3: Contributed networked performances and generative compositions to programs like Late Junction, showcasing innovative uses of technology in experimental music.
+Antena 2: Premiered telematic and AI-driven works, connecting Portuguese and global artists through live-streamed performances that blend improvisation with digital media.
+WDR 3: Presented avant-garde pieces inspired by the Cologne school, integrating live electronics and AI synthesis, broadcast as part of their experimental music series.
+Global Dialogue: Actively participate in festivals, conferences, and residencies (e.g., Darmstadt Summer Courses), sharing research on networked performance and AI-driven creativity, fostering cross-cultural and interdisciplinary collaboration.
+
+My work continues to evolve, driven by a commitment to exploring new sonic and visual frontiers, informed by the avant-garde’s legacy of challenging conventions and embracing innovation.
 ---
 
 > *“My work is a living canvas where sound, code, and image converge — a space for improvisation, intuition, and the beauty of structured chaos.”*
